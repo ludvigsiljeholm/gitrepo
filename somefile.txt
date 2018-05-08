@@ -3,4 +3,13 @@ The quick brown fox jumps over the lazy dog;
 This sentence is a pangram, a sentence that contains all of the letters of the alphabet.
 
 
+<<<<<<< HEAD
 This line is added by Ludvig
+=======
+Adding one more sentence
+
+
+Hi again, another change
+>>>>>>> 76ce3c63342602acfd7419e2d92fd473b4a5cf11
+
+So many changes, here we go again!
